@@ -21,6 +21,7 @@ Proyek ini merupakan implementasi sederhana dari Analisis Sentimen menggunakan a
 # 🗿 Predicted Label with SVM
 ![image](https://github.com/user-attachments/assets/ca4f7d93-c179-4d66-adc7-1c2fc89d5b17)
 
+> Hasil prediksi model mengatakan bahwa True Positive dan True Negative memiliki nilai yang besar, yang artinya model memprediksi terdapat ulasan positif dan negatif walaupun ulasan negatif lebih banyak daripada positif yang memiliki nilai 809 > 568. Disisi lain, ada pula False Positive dan False Negative yang nilainya bisa dihitung jari...
 
 # 📚 Teknologi & Library
 - Python 3.x
