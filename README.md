@@ -18,6 +18,10 @@ Proyek ini merupakan implementasi sederhana dari Analisis Sentimen menggunakan a
 - Precision, Recall, F1-scoren
 - Confusion Matrix
 
+# 🗿 Predicted Label with SVM
+![image](https://github.com/user-attachments/assets/ca4f7d93-c179-4d66-adc7-1c2fc89d5b17)
+
+
 # 📚 Teknologi & Library
 - Python 3.x
 - Jupyter Notebook
